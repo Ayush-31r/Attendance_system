@@ -89,6 +89,7 @@ def third():
          cursor.execute(k)
          mydb.commit()
      print(" UPDATED .....")
+     
      choice()
 
 
